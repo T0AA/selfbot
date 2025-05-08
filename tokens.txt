@@ -1,0 +1,5 @@
+input your main token here without the "
+input your alt token here without the "
+
+
+if you just wanna use 1 account put 2 tokens in the same order, wouldnt recommend might get termed
