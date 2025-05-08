@@ -5,6 +5,8 @@ This is a Python-based selfbot created for Discord. It utilizes the `discord`, `
 ⚠️ **Disclaimer**  
 Using selfbots on Discord is a violation of [Discord's Terms of Service](https://discord.com/terms). The use of this tool may result in a permanent account ban. The author is not responsible for any consequences arising from the use of this code.
 
+
+You can also change the code and make it your own, please give a little credit though.
 ---
 
 ## 💻 Features
