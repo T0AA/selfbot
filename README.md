@@ -43,3 +43,7 @@ Python modules used:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/T0AA/selfbot.git
+
+   open the install.bat and then at the end open the python
+
+   enjoy
